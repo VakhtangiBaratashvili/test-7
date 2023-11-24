@@ -1,0 +1,25 @@
+Welcome to:
+
+         tttt            iiii                                    tttt                                                              tttt
+      ttt:::t           i::::i                                ttt:::t                                                           ttt:::t
+      t:::::t            iiii                                 t:::::t                                                           t:::::t
+      t:::::t                                                 t:::::t                                                           t:::::t
+ttttttt:::::ttttttt    iiiiiii     cccccccccccccccc     ttttttt:::::ttttttt      aaaaaaaaaaaaa       cccccccccccccccc     ttttttt:::::ttttttt       ooooooooooo       eeeeeeeeeeee
+t:::::::::::::::::t    i:::::i   cc:::::::::::::::c     t:::::::::::::::::t      a::::::::::::a    cc:::::::::::::::c     t:::::::::::::::::t     oo:::::::::::oo   ee::::::::::::ee
+t:::::::::::::::::t     i::::i  c:::::::::::::::::c     t:::::::::::::::::t      aaaaaaaaa:::::a  c:::::::::::::::::c     t:::::::::::::::::t    o:::::::::::::::o e::::::eeeee:::::ee
+tttttt:::::::tttttt     i::::i c:::::::cccccc:::::c     tttttt:::::::tttttt               a::::a c:::::::cccccc:::::c     tttttt:::::::tttttt    o:::::ooooo:::::oe::::::e     e:::::e
+      t:::::t           i::::i c::::::c     ccccccc           t:::::t              aaaaaaa:::::a c::::::c     ccccccc           t:::::t          o::::o     o::::oe:::::::eeeee::::::e
+      t:::::t           i::::i c:::::c                        t:::::t            aa::::::::::::a c:::::c                        t:::::t          o::::o     o::::oe:::::::::::::::::e
+      t:::::t           i::::i c:::::c                        t:::::t           a::::aaaa::::::a c:::::c                        t:::::t          o::::o     o::::oe::::::eeeeeeeeeee
+      t:::::t    tttttt i::::i c::::::c     ccccccc           t:::::t    tttttta::::a    a:::::a c::::::c     ccccccc           t:::::t    tttttto::::o     o::::oe:::::::e
+      t::::::tttt:::::ti::::::ic:::::::cccccc:::::c           t::::::tttt:::::ta::::a    a:::::a c:::::::cccccc:::::c           t::::::tttt:::::to:::::ooooo:::::oe::::::::e
+      tt::::::::::::::ti::::::i c:::::::::::::::::c           tt::::::::::::::ta:::::aaaa::::::a  c:::::::::::::::::c           tt::::::::::::::to:::::::::::::::o e::::::::eeeeeeee
+        tt:::::::::::tti::::::i  cc:::::::::::::::c             tt:::::::::::tt a::::::::::aa:::a  cc:::::::::::::::c             tt:::::::::::tt oo:::::::::::oo   ee:::::::::::::e
+          ttttttttttt  iiiiiiii    cccccccccccccccc               ttttttttttt    aaaaaaaaaa  aaaa    cccccccccccccccc               ttttttttttt     ooooooooooo       eeeeeeeeeeeeee
+
+Rules:
+1. The game is played on a 3x3 grid.
+2. Two players take turns to mark a square with their symbol (X or O).
+3. The player who successfully places three of their marks in a horizontal, vertical, or diagonal row wins.
+4. If the board is filled without a winner, the game is a draw.
+Let's get started!

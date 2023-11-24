@@ -1,0 +1,18 @@
+
+
+         tttt            iiii                            !!!
+      ttt:::t           i::::i                          !!:!!
+      t:::::t            iiii                           !:::!
+      t:::::t                                           !:::!
+ttttttt:::::ttttttt    iiiiiii     eeeeeeeeeeee         !:::!
+t:::::::::::::::::t    i:::::i   ee::::::::::::ee       !:::!
+t:::::::::::::::::t     i::::i  e::::::eeeee:::::ee     !:::!
+tttttt:::::::tttttt     i::::i e::::::e     e:::::e     !:::!
+      t:::::t           i::::i e:::::::eeeee::::::e     !:::!
+      t:::::t           i::::i e:::::::::::::::::e      !:::!
+      t:::::t           i::::i e::::::eeeeeeeeeee       !!:!!
+      t:::::t    tttttt i::::i e:::::::e                 !!!
+      t::::::tttt:::::ti::::::ie::::::::e
+      tt::::::::::::::ti::::::i e::::::::eeeeeeee        !!!
+        tt:::::::::::tti::::::i  ee:::::::::::::e       !!:!!
+          ttttttttttt  iiiiiiii    eeeeeeeeeeeeee        !!!

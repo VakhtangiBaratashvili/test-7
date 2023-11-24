@@ -1,0 +1,17 @@
+
+XXXXXXX       XXXXXXX                                                iiii                                           !!!
+X:::::X       X:::::X                                               i::::i                                         !!:!!
+X:::::X       X:::::X                                                iiii                                          !:::!
+X::::::X     X::::::X                                                                                              !:::!
+XXX:::::X   X:::::XXX     wwwwwww           wwwww           wwwwwwwiiiiiii nnnn  nnnnnnnn        ssssssssss        !:::!
+   X:::::X X:::::X         w:::::w         w:::::w         w:::::w i:::::i n:::nn::::::::nn    ss::::::::::s       !:::!
+    X:::::X:::::X           w:::::w       w:::::::w       w:::::w   i::::i n::::::::::::::nn ss:::::::::::::s      !:::!
+     X:::::::::X             w:::::w     w:::::::::w     w:::::w    i::::i nn:::::::::::::::ns::::::ssss:::::s     !:::!
+     X:::::::::X              w:::::w   w:::::w:::::w   w:::::w     i::::i   n:::::nnnn:::::n s:::::s  ssssss      !:::!
+    X:::::X:::::X              w:::::w w:::::w w:::::w w:::::w      i::::i   n::::n    n::::n   s::::::s           !:::!
+   X:::::X X:::::X              w:::::w:::::w   w:::::w:::::w       i::::i   n::::n    n::::n      s::::::s        !!:!!
+XXX:::::X   X:::::XXX            w:::::::::w     w:::::::::w        i::::i   n::::n    n::::nssssss   s:::::s       !!!
+X::::::X     X::::::X             w:::::::w       w:::::::w        i::::::i  n::::n    n::::ns:::::ssss::::::s
+X:::::X       X:::::X              w:::::w         w:::::w         i::::::i  n::::n    n::::ns::::::::::::::s       !!!
+X:::::X       X:::::X               w:::w           w:::w          i::::::i  n::::n    n::::n s:::::::::::ss       !!:!!
+XXXXXXX       XXXXXXX                www             www           iiiiiiii  nnnnnn    nnnnnn  sssssssssss          !!!
